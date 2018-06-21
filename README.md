@@ -7,6 +7,11 @@ GitHub support is now available https://www.draw.io/?mode=github An example for 
 ![Diagram](http://jgraph.github.io/drawio-github/diagram.png)
 
 
+
+![Diagram](http://jgraph.github.io/drawio-github/diagram.png)
+
+--
+
 ![Diagram](http://github.com/hilenamin/drawio/example.xml)
 
 
