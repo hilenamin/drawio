@@ -10,7 +10,7 @@ GitHub support is now available https://www.draw.io/?mode=github An example for 
 --
 
 # Local diagram
-![Diagram](https://github.com/hilenamin/drawio/blob/master/diagram.png)
+![Diagram](https://github.com/hilenamin/drawio/blob/master/EndToEndFlow.xml)
 
 
 --
